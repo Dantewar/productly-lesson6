@@ -6,22 +6,18 @@
   box-sizing: border-box;
 }
 
-body {
-  line-height: 1;
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
 
 ul {
   list-style: none;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-img {
-  max-width: 100%;
-  display: block;
 }
 
 button,
